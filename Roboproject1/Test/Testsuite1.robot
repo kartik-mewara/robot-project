@@ -18,7 +18,8 @@ secontest
 firstseleniumtest
     openitall
     
-    
+fourttest
+    log        i am inside fourth test case
 # SampleLoginTest
     # # log        this is executed by %{username}
     # open browser        https://opensource-demo.orangehrmlive.com/        chrome
